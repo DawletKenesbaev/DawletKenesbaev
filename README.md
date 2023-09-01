@@ -1,4 +1,4 @@
-### Hi, I am Dawlet Kenesbaev <img src='https://media3.giphy.com/media/47GTKznyEywUBLgR0x/200w.webp?cid=ecf05e47g8l7raynfvvp0kurhutbbe340bziwt2no71lab0f&ep=v1_gifs_search&rid=200w.webp&ct=g' />
+### Hi, I am Dawlet Kenesbaev <img src='https://media3.giphy.com/media/47GTKznyEywUBLgR0x/200w.webp?cid=ecf05e47g8l7raynfvvp0kurhutbbe340bziwt2no71lab0f&ep=v1_gifs_search&rid=200w.webp&ct=g' width='30px'  />
 
 <!--
 **NUKUS777/NUKUS777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
