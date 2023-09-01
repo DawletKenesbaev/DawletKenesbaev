@@ -1,7 +1,11 @@
 ### Hi, I am Dawlet Kenesbaev <img src='https://media3.giphy.com/media/47GTKznyEywUBLgR0x/200w.webp?cid=ecf05e47g8l7raynfvvp0kurhutbbe340bziwt2no71lab0f&ep=v1_gifs_search&rid=200w.webp&ct=g' width='30px'  />
+
+ <a href="https://t.me/username8168">
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dtelegram%2BIcon&psig=AOvVaw20l0FjNLqK0ptNpji7XRge&ust=1693673653262000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKi0wILwiYEDFQAAAAAdAAAAABAE" alt="">
+    </a>
 <style>
    /* Apply border-radius to all elements */
-   .img {
+   img {
       border-radius: 50%;
    }
 </style>
