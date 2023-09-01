@@ -2,13 +2,8 @@
 
  <a href="https://t.me/username8168">
       <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dtelegram%2BIcon&psig=AOvVaw20l0FjNLqK0ptNpji7XRge&ust=1693673653262000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKi0wILwiYEDFQAAAAAdAAAAABAE" alt="">
-    </a>
-<style>
-   /* Apply border-radius to all elements */
-   img {
-      border-radius: 50%;
-   }
-</style>
+ </a>
+
 <!--
 **NUKUS777/NUKUS777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
