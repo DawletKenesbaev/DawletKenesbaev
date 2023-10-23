@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Not yet](Not yet)
 
-- 💬 Ask me about **ReactJs,Javascript,NestJs**
+- 💬 Ask me about **ReactJs,Javascript,NextJs**
 
 - 📫 How to reach me **devdawlet@gmail.com**
 
