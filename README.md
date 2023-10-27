@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [Not yet](Not yet)
+- 👨‍💻 I'm studying at RS School 
 
 - 💬 Ask me about **ReactJs,Javascript,NextJs**
 
