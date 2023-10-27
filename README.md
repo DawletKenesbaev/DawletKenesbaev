@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 I'm studying at RS School 
+- 👨‍💻 I'm studying at <a src='https://rs.school/' >RS School<a/>
 
 - 💬 Ask me about **ReactJs,Javascript,NextJs**
 
