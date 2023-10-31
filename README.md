@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dawlet <img src="https://img.freepik.com/premium-psd/3d-yellow-emoji-cool-business-guy_827414-5.jpg" style="width: 30px; height: 30px;"></h1>
+<h1 align="center">Hi, I'm Dawlet <img src="https://cdn.pixabay.com/animation/2022/09/27/12/02/12-02-19-627_512.gif" style="width: 30px; height: 30px;"></h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 - 🔭 I’m currently working on [E-learning](https://github.com/NUKUS777/e-learning)
