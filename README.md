@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dawlet <img src='https://i.pinimg.com/originals/aa/f7/f2/aaf7f2bb862a0004acad5bff2b08d927.gif' style="width: 30px; height: 30px;"></h1>
+<h1 align="center">Hi, I'm Dawlet <img src='https://w7.pngwing.com/pngs/262/958/png-transparent-cool-emoji-emoji-sticker-smiley-emojis-emoticon-emoji-domain-whatsapp.png' style="width: 30px; height: 30px;"></h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 - 🔭 I’m currently working on [E-learning](https://github.com/NUKUS777/e-learning)
