@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dawlet <img src='https://toppng.com/uploads/preview/emoji-anonymous-11549728277pxq2rmlsqe.png' style="width: 36px; height: 30px;"></h1>
+<h1 align="center">Hi, I'm Dawlet <img src='https://assets.stickpng.com/images/5a65c19401d15068bdfe8771.png' style="width: 36px; height: 30px;"></h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 - 🔭 I’m currently working on [E-learning](https://github.com/NUKUS777/e-learning)
