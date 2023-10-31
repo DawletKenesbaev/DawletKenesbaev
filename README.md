@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dawlet <img src='https://pngimg.com/d/hacker_PNG3.png' style="width: 56px; height: 50px;"></h1>
+<h1 align="center">Hi, I'm Dawlet </h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 - 🔭 I’m currently working on [E-learning](https://github.com/NUKUS777/e-learning)
