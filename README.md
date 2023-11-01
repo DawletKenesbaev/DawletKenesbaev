@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dawlet </h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h3 align="center">A passionate frontend developer from Uzbekistan <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-htdji&psig=AOvVaw1-scpN294Lvi0EWyKLsZM_&ust=1698968779748000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNDig-T9o4IDFQAAAAAdAAAAABAE'/></h3>
 
 - 🔭 I’m currently working on [My portfolio](https://github.com/NUKUS777/dawlet-portfolio)
 
