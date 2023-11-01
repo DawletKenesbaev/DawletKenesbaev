@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dawlet <img src="https://w7.pngwing.com/pngs/617/536/png-transparent-philosopher-%E3%81%84%E3%82%89%E3%81%99%E3%81%A8%E3%82%84-yg%E6%80%A7%E6%A0%BC%E6%A4%9C%E6%9F%BB-selfishness-nietzsche-face-head-illustrator.png" style="width:46px; height:65px;" /></h1>
+<h1 align="center">Hi, I'm Dawlet <img src="https://w7.pngwing.com/pngs/617/536/png-transparent-philosopher-%E3%81%84%E3%82%89%E3%81%99%E3%81%A8%E3%82%84-yg%E6%80%A7%E6%A0%BC%E6%A4%9C%E6%9F%BB-selfishness-nietzsche-face-head-illustrator.png" style="width:52px; height:65px; border-radius:10px;" /></h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan </h3>
 
 - 🔭 I’m currently working on [My portfolio](https://github.com/NUKUS777/dawlet-portfolio)
