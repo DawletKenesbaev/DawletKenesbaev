@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **devdawlet@gmail.com**
 
-- ⚡ Quote **Man is limited by only his imagination**
+- ⚡ Quote **"That which does not kill us makes us stronger." **
 
 <p align="left">
 </p>
