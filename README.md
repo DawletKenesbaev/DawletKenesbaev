@@ -8,6 +8,7 @@
 - 👨‍💻 I'm studying at  **RS School (ReactJs course)**
 
 - 💬 Ask me about **ReactJs,Javascript,NextJs**
+- ⚡ Fun fact **"That which does not kill us makes us stronger." - Nietzche**
 
 - 📫 How to reach me **devdawlet@gmail.com**
 
