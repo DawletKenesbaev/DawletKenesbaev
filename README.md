@@ -18,4 +18,5 @@
 
 
 ![Dawlet's GitHub stats](https://github-readme-stats.vercel.app/api?username=NUKUS777&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NUKUS777&layout=compact)
 
