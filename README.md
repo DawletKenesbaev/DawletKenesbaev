@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Dawlet</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan </h3>
-- 🔭 I’m currently working on <a href='https://github.com/NUKUS777/dawlet-portfolio'> My portfolio</a>
+- 🔭 I’m currently working on <a href='https://github.com/NUKUS777/Online-Store'> E-Commerse Website</a>
 
 - 🌱 I’m currently learning **TypeScript**
 
