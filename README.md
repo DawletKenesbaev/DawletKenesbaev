@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 I'm studying at  **RS School (ReactJs course)**
+- 👨‍💻 I'm studying at  **RS School (JS/FE course)**
 
 - 💬 Ask me about **ReactJs,Javascript,NextJs**
   
