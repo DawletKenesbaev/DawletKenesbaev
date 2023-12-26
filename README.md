@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I am Dawlet</h1>
-<h3 align="center"> Frontend developer</h3>
+<h1 align="center">Hi, I am a Frontend developer</h1>
 - 🔭 I’m currently working on <a href='https://github.com/NUKUS777/Online-Store'> E-Commerse Website</a>
   
 - 🌱 I’m currently learning **TypeScript**
