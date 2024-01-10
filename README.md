@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am a Frontend developer</h1>
+![image](https://github.com/NUKUS777/NUKUS777/assets/123051703/0f63a849-eecd-4eed-a449-c5b5dc4d080e)<h1 align="center">Hi, I am a Frontend developer</h1>
 - 🔭 I’m currently working on <a href='https://github.com/NUKUS777/Online-Store'> E-Commerse Website</a>
   
 - 🌱 I’m currently learning **TypeScript**
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ReactJs,Javascript,NextJs**
   
-- ⚡ Quote **"That which does not kill us makes us stronger." - Nietzche**
+- ⚡ Currently Reading **The Art of Thinking Clearly** by Rolf Dobelli
 
 - 📫 How to reach me **devdawlet@gmail.com**
 
