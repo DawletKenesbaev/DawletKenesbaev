@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I am a Frontend developer</h1>
-- 🔭 I’m currently working on <a href='https://github.com/NUKUS777/Online-Store'> E-Commerse Website</a>
+- 🔭 I’m currently building  <a href='https://github.com/DawletKenesbaev/stack_overflow_nextjs13'>Clone of StackOverFlow</a>
   
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** and **NextJs**
 
-- 👨‍💻 I'm studying at  **RS School (JS/FE course)**
-
-- 💬 Ask me about **ReactJs,Javascript,NextJs**
+- 👨‍💻 I'm studying at  **RS School (NodeJS course)**
   
 - ⚡ Currently Reading **The Art of Thinking Clearly** by Rolf Dobelli
 
@@ -33,12 +31,12 @@
 
 
 
-![Dawlet's GitHub stats](https://github-readme-stats.vercel.app/api?username=NUKUS777&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NUKUS777&layout=compact)
+![Dawlet's GitHub stats](https://github-readme-stats.vercel.app/api?username=DawletKenesbaev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DawletKenesbaev&layout=compact)
 
 
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NUKUS777&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DawletKenesbaev&theme=dark)](https://git.io/streak-stats)
 
