@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am a Frontend developer</h1>
+<h1 align="center">Hi, folks! </h1>
 - 🔭 I’m currently building  <a href='https://github.com/DawletKenesbaev/stack_overflow_nextjs13'>Clone of StackOverFlow</a>
   
 - 🌱 I’m currently learning **TypeScript** and **NextJs**
@@ -31,7 +31,6 @@
 
 
 
-![Dawlet's GitHub stats](https://github-readme-stats.vercel.app/api?username=DawletKenesbaev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DawletKenesbaev&layout=compact)
 
 
