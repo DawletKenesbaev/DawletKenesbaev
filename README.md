@@ -47,10 +47,8 @@
 <a href="https://docs.github.com/en" target="_blank"> <img alt="github" title="Github" src="img/github-original-wordmark.svg" height="40"/> </a>&nbsp; 
 <a href="https://eslint.org/" target="_blank"> <img alt="eslint" title="Eslint" src="img/eslint.png" height="40"/> </a>&nbsp; 
 <a href="https://prettier.io/" target="_blank"> <img alt="prettier" title="Prettier" src="img/prettier.svg" height="40"/> </a>&nbsp;
-</div>
-<h3>🧑‍🎓 Technologies that I’m currently learning</h3>
-<div align="center">
-<a href="https://reactjs.org/" target="_blank"> <img  height="0" alt="react" title="React" src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" height="40"/> </a>&nbsp;
+  <a href="https://nextjs.org/" target="_blank"> <img  height="0" alt="react" title="next" src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" height="40"/> </a>&nbsp;
+
 </div>
 <h3>💻 My projects</h3>
 <tr>
