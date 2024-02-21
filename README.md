@@ -145,6 +145,5 @@
           </table>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dawletkenesbaev&show_icons=true&locale=en&layout=compact" alt="dawletkenesbaev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dawletkenesbaev&show_icons=true&locale=en" alt="dawletkenesbaev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dawletkenesbaev&" alt="dawletkenesbaev" /></p>
