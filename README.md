@@ -133,6 +133,10 @@
               <li>i18 (multi languages)</li>
               <li>Ant Design</li>
               <li>Cashe,Session vs Local Storage</li>
+            </ul>
+          <div align="right">
+            <a href="https://github.com/DawletKenesbaev/Nihol" title="Go to the repository">More →</a>
+          </div>
   </table>
 ---
 
