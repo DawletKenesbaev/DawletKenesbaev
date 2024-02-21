@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 
-  <h1 align="center">👋 Hi, I'm Dawlet </h1>
-=======
 <h1 align="center">👋 Hi, I'm Dawlet </h1>
->>>>>>> db6bce4a58444d65f5eed09d9ffbfab4f5dcd529
 <div align=center>
 <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=500&pause=1400&color=f8c527&center=true&random=false&width=435&lines=Junior+Frontend+Developer!" alt="Typing SVG" />
 </div>
@@ -55,38 +51,6 @@
 <<<<<<< HEAD
   <a href="https://nextjs.org/" target="_blank"> <img  height="0" alt="react" title="next" src="img/nextjs-icon-512x512-y563b8iq.png" height="40"/> </a>&nbsp;
 
-</div>
-<h3>💻 My projects</h3>
-          <table>
-            <tbody>
-            <td colspan="2">
-                  <h3 align="center">DevOverFlow</h3>
-                </td>
-              </tr>
-              <tr>
-                <td rowspan="3" width="50%">
-                  <a href="https://dev-overflow-nextjs14-two.vercel.app/" title="Open Demo">
-                    <img src="img/dev.gif" width="100%" />
-                  </a>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <div align="center">
-                    <img height="20" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-                    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-                    <img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat-square&logo=Eslint&logoColor=white&color=%23464451" />
-                    <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white&color=%233F888F" />
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <p align="center"><b>About project</b></p>
-=======
-  <a href="https://nextjs.org/" target="_blank"> <img  height="0" alt="react" title="next" src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" height="40"/> </a>&nbsp;
-
-</div>
 <h3>💻 My projects</h3>
 <tr>
         <td colspan="2">
@@ -113,7 +77,6 @@
       <tr>
         <td>
           <p align="center"><b>About project</b></p>
->>>>>>> db6bce4a58444d65f5eed09d9ffbfab4f5dcd529
           <p align="center">
             This project aims to create a community-driven platform where developers can seek help, share knowledge, and collaborate on solving programming challenges, much like the functionality offered by Stack Overflow.
             <h4>
@@ -132,7 +95,6 @@
           <div align="right">
             <a target="_blank" href="https://github.com/DawletKenesbaev/dev_overflow_nextjs14" title="Go to the repository">More →</a>
           </div>
-<<<<<<< HEAD
                 </td>
               </tr>
              </tr>
@@ -180,7 +142,6 @@
                   </tr>
           </tbody>
           </table>
-=======
         </td>
       </tr>
       <tr>
@@ -232,4 +193,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DawletKenesbaev&theme=dark)](https://git.io/streak-stats)
 
->>>>>>> db6bce4a58444d65f5eed09d9ffbfab4f5dcd529
