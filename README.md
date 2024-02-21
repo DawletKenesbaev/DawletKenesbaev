@@ -1,5 +1,4 @@
-
-    <h1 align="center"><👋 Hi, I'm Dawlet /></h1>
+<h1 align="center">👋 Hi, I'm Dawlet </h1>
 <div align=center>
 <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=500&pause=1400&color=f8c527&center=true&random=false&width=435&lines=Junior+Frontend+Developer!" alt="Typing SVG" />
 </div>
