@@ -54,9 +54,7 @@
 <a href="https://reactjs.org/" target="_blank"> <img  height="0" alt="react" title="React" src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" height="40"/> </a>&nbsp;
 </div>
 <h3>💻 My projects</h3>
-<table>
-    <tbody>
-      <tr>
+<tr>
         <td colspan="2">
           <h3 align="center">Dev OverFlow</h3>
         </td>
@@ -136,15 +134,6 @@
               <li>i18 (multi languages)</li>
               <li>Ant Design</li>
               <li>Cashe,Session vs Local Storage</li>
-
-            </ul>
-          </p>
-          <div align="right">
-            <a href="https://github.com/DawletKenesbaev/Nihol" title="Go to the repository">More →</a>
-          </div>
-        </td>
-      </tr>
-    </tbody>
   </table>
 ---
 
