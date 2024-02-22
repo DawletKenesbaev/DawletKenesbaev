@@ -61,8 +61,8 @@
 <img alt="sass" title="SASS" src="https://mui.com/static/logo.png" height="40"/> 
 </a>&nbsp; 
 <a href='https://www.styled-components.com/ target="_blank">
-<img alt="sass" title="SASS" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkthDU23szPsm9bklu5TesI2PLBCS0D0GRZG9Q4UVApg&s" height="40"/> 
-</a>&nbsp; 
+<img alt="sass" title="SASS" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkthDU23szPsm9bklu5TesI2PLBCS0D0GRZG9Q4UVApg&s' height="40"/> 
+  </a>&nbsp; 
   
 <a href="https://sass-lang.com/" target="_blank">
 <img alt="sass" title="SASS" src="img/sass-original.svg" height="40"/> 
