@@ -60,10 +60,7 @@
   <a href="https://mui.com/" target="_blank">
 <img alt="sass" title="SASS" src="https://mui.com/static/logo.png" height="40"/> 
 </a>&nbsp; 
-<a href='https://www.styled-components.com/ target="_blank">
-<img alt="sass" title="styled" src='https://www.styled-components.com/atom.png' height="40"/> 
-  </a>&nbsp; 
-  
+
 <a href="https://sass-lang.com/" target="_blank">
 <img alt="sass" title="SASS" src="img/sass-original.svg" height="40"/> 
 </a>&nbsp; 
