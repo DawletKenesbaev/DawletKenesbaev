@@ -39,10 +39,11 @@
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img alt="html" title="HTML5" src="img/html5-original-wordmark.svg" height="40"/> </a>&nbsp; 
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img alt="css" title="CSS" src="img/css3-original-wordmark.svg" height="40"/> </a>&nbsp; 
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img alt="js" title="JavaScript" src="img/javascript-original.svg" height="40"/> </a>&nbsp; 
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img alt="ts" title="TypeScript" src="img/typescript-original.svg" height="40"/> </a>&nbsp; 
   <a href="https://www.reactjs.org/" target="_blank"> <img alt="ts" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="40"/> </a>&nbsp; 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img alt="ts" title="TypeScript" src="img/typescript-original.svg" height="40"/> </a>&nbsp; 
+  <a href="https://nextjs.org/" target="_blank"> <img alt="redux" title="Redux" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="40"/> </a>&nbsp; 
 <a href="https://redux.js.org/" target="_blank"> <img alt="redux" title="Redux" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" height="40"/> </a>&nbsp; 
-<a href="https://nextjs.org/" target="_blank"> <img alt="redux" title="Redux" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="40"/> </a>&nbsp; 
+
 <a href="https://sass-lang.com/" target="_blank"> <img alt="sass" title="SASS" src="img/sass-original.svg" height="40"/> </a>&nbsp; 
 <a href="https://tailwindcss.com/" target="_blank"> <img alt="prettier" title="Prettier" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" height="40"/> </a>&nbsp; 
 <a href="https://git-scm.com/" target="_blank"> <img alt="git" title="Git" src="img/git.png" height="50"/> </a>&nbsp; 
